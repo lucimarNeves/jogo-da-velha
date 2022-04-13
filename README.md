@@ -6,7 +6,7 @@
 Tecnologias utilizadas <ol><li>HTML5</li><li>JavaScript</li><li>CSS</li></ol>  	
 
 ##  Sobre o projeto
-O projeto é uma aplicação de um jogo da velha, utlizando código JavaScript desenvolver o jogo, definindo qual o vencedor
+O projeto é uma aplicação de um jogo da velha, utilizando código JavaScript desenvolver o jogo, definindo qual o vencedor
 com iniciando com X para um jogador e O para outro jogador.
 A aplicação permite troca de cor, ficando em Darkmode
 
