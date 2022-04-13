@@ -3,7 +3,7 @@
 # Utilizando JavaScript para a construção de um projeto de jogo-da-velha
 
 #
-Tecnologias utilizadas <ol><li>HTML5</li><li>JavaScript</li><li>CSS</li></ol>  	|
+Tecnologias utilizadas <ol><li>HTML5</li><li>JavaScript</li><li>CSS</li></ol>  	
 
 ##  Sobre o projeto
 O projeto é uma aplicação de um jogo da velha, utlizando código JavaScript desenvolver o jogo, definindo qual o vencedor
