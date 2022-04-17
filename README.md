@@ -11,8 +11,6 @@ com iniciando com X para um jogador e O para outro jogador.
 A aplicação permite troca de cor, ficando em Darkmode
 
 ## Layout web
-![Web 1](https://github.com/lucimarNeves/jogo-da-velha/blob/main/assets/image.png)
-
 ![Web 2](https://github.com/lucimarNeves/jogo-da-velha/blob/main/assets/image2.png)
 
 ![Web 3](https://github.com/lucimarNeves/jogo-da-velha/blob/main/assets/image3.png)
